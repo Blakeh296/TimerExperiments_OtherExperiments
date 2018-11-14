@@ -1,0 +1,10 @@
+G:\C#\Timer_Experiments\Timer_Experiments\obj\Debug\Timer_Experiments.Properties.Resources.resources
+G:\C#\Timer_Experiments\Timer_Experiments\obj\Debug\Timer_Experiments.csproj.GenerateResource.Cache
+G:\C#\Timer_Experiments\Timer_Experiments\obj\Debug\Timer_Experiments.csproj.CoreCompileInputs.cache
+G:\C#\Timer_Experiments\Timer_Experiments\bin\Debug\Timer_Experiments.exe.config
+G:\C#\Timer_Experiments\Timer_Experiments\bin\Debug\Timer_Experiments.exe
+G:\C#\Timer_Experiments\Timer_Experiments\bin\Debug\Timer_Experiments.pdb
+G:\C#\Timer_Experiments\Timer_Experiments\obj\Debug\Timer_Experiments.Form1.resources
+G:\C#\Timer_Experiments\Timer_Experiments\obj\Debug\Timer_Experiments.exe
+G:\C#\Timer_Experiments\Timer_Experiments\obj\Debug\Timer_Experiments.pdb
+G:\C#\Timer_Experiments\Timer_Experiments\obj\Debug\Timer_Experiments.csprojAssemblyReference.cache
